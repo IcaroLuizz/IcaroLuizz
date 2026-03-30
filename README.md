@@ -1,6 +1,6 @@
 <div align="center">
 <img 
-src="https://i.pinimg.com/1200x/d8/8a/30/d88a30ea20d412bf099dc850cdb7ed00.jpg" 
+src="https://pixelz.cc/wp-content/uploads/2018/06/final-fantasy-xv-logo-uhd-4k-wallpaper.jpg" 
 width="400px" 
 />
 </div>
