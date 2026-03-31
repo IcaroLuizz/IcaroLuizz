@@ -6,10 +6,10 @@ width="400px"
 </div>
  
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=C9A227¢er=true&…"
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=C9A227¢er=true&…"/>
 </div>
  
- 
+## Sobre Mim 
 Me chamo *Icaro** ₊
 
 𝙴𝚜𝚝𝚞𝚍𝚊𝚗𝚝𝚎 𝚍𝚎 𝙳𝚎𝚜𝚎𝚗𝚟𝚘𝚕𝚟𝚒𝚖𝚎𝚗𝚝𝚘 𝚍𝚎 𝚂𝚒𝚜𝚝𝚎𝚖𝚊s
