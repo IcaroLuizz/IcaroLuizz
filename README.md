@@ -33,6 +33,14 @@
 <img src="https://streak-stats.demolab.com?user=gdTech1&hide_border=true&background=00000000&stroke=B2B2B2&ring=150E56&fire=0A1931&currStreakNum=FFFFFF&sideNums=B2B2B2&currStreakLabel=150E56&sideLabels=B2B2B2&dates=FFFFFF" />
 </div>
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gdTech1/gdTech1/output/github-contribution-grid-snake-dark.svg?variant=space-invaders">
+  <img alt="Space Invaders Contribuições" src="https://raw.githubusercontent.com/gdTech1/gdTech1/output/github-contribution-grid-snake.svg?variant=space-invaders">
+</picture>
+
+</div>
 
 <br><br>
 
