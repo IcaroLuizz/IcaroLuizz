@@ -33,10 +33,7 @@
 <img src="https://streak-stats.demolab.com?user=gdTech1&hide_border=true&background=00000000&stroke=B2B2B2&ring=150E56&fire=0A1931&currStreakNum=FFFFFF&sideNums=B2B2B2&currStreakLabel=150E56&sideLabels=B2B2B2&dates=FFFFFF" />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gdTech1/gdTech1/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/gdTech1/gdTech1/output/github-contribution-grid-snake.svg?v=2">
-</picture>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 <br><br>
 
