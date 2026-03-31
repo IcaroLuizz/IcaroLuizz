@@ -26,7 +26,7 @@ width="400px"
  
 ## 𝑪𝒐𝒏𝒆𝒄𝒕𝒆-𝒔𝒆 𝒄𝒐𝒎𝒊𝒈𝒐
  
-[![Email](https://img.shields.io/badge/Email-E6D3A3?style=for-the-badge&logo=gmail&logoColor=3E2C23)](mailto:gd.techprofile@gmail.com)
+[![Email](https://img.shields.io/badge/Email-E6D3A3?style=for-the-badge&logo=gmail&logoColor=836FFF)](mailto:icarocaualuiz@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-D4AF37?style=for-the-badge&logo=linkedin&logoColor=3E2C23)](https://www.linkedin.com/in/%C3%ADcaro-luiz/)
  
  
