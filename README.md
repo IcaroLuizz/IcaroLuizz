@@ -11,15 +11,21 @@ width="400px"
  
  
 ## 𝑺𝒐𝒃𝒓𝒆 𝒎𝒊𝒎
-Me chamo **Icaro** ₊ ⊹
- 
-- 𝙴𝚜𝚝𝚞𝚍𝚊𝚗𝚝𝚎 𝚍𝚎 𝙳𝚎𝚜𝚎𝚗𝚟𝚘𝚕𝚟𝚒𝚖𝚎𝚗𝚝𝚘 𝚍𝚎 𝚂𝚒𝚜𝚝𝚎𝚖𝚊𝚜 
-- 𝙵𝚘𝚌𝚊𝚍o atualmente 𝚎𝚖  **Java**
- 
+
+-----------------------------------------------------
+Me chamo *Icaro** ₊
+
+------------------------------------------------------
+
+𝙴𝚜𝚝𝚞𝚍𝚊𝚗𝚝𝚎 𝚍𝚎 𝙳𝚎𝚜𝚎𝚗𝚟𝚘𝚕𝚟𝚒𝚖𝚎𝚗𝚝𝚘 𝚍𝚎 𝚂𝚒𝚜𝚝𝚎𝚖𝚊s
+
+𝙵𝚘𝚌𝚊𝚍o atualmente 𝚎𝚖  **Java**
+
+ -----------------------------------------------------
  
 ## 𝑴𝒊𝒏𝒉𝒂 𝒋𝒐𝒓𝒏𝒂𝒅𝒂
  
-![On holiday](https://img.shields.io/badge/Focus-AI-D4AF37?style=for-the-badge&logoColor=3E2C23)
+# ![On holiday](https://img.shields.io/badge/Focus-AI-D4AF37?style=for-the-badge&logoColor=3E2C23)
 ![Learning](https://img.shields.io/badge/Learning-FastAPI%20%7C%20APIs-E6D3A3?style=for-the-badge&logoColor=3E2C23)
 ![Status](https://img.shields.io/badge/Status-Student-8B5E3C?style=for-the-badge&logoColor=FFFFFF)
 ![Goal](https://img.shields.io/badge/Goal-AI%20Engineer-CD7F32?style=for-the-badge&logoColor=FFFFFF)
