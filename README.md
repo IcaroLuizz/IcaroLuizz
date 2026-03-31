@@ -6,7 +6,7 @@ width="400px"
 </div>
  
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=C9A227¢er=true&…
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=C9A227¢er=true&… 
 </div>
  
  
@@ -38,7 +38,7 @@ Me chamo *Icaro** ₊
 ## 𝑺𝒕𝒓𝒆𝒂𝒌
  
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=gdTech1&hide_border=true&background=00000000&stroke=8B5E3C&ring=D4AF37&fire=CD7F32&currStreakNum=5C4033&sideNums=8B5E3C&currStreakLabel=D4AF37&sideLabels=8B5E3C&dates=5C4033%22/>
+<img src="https://streak-stats.demolab.com?user=gdTech1&hide_border=true&background=00000000&stroke=8B5E3C&ring=D4AF37&fire=CD7F32&currStreakNum=5C4033&sideNums=8B5E3C&currStreakLabel=D4AF37&sideLabels=8B5E3C&dates=5C4033%22" />
  
 </div>
  
