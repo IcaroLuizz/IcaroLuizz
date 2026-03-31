@@ -11,11 +11,10 @@ width="400px"
  
  
 ## 𝑺𝒐𝒃𝒓𝒆 𝒎𝒊𝒎
-𝙷𝚎𝚕𝚕𝚘𝚘.ᐟ.ᐟ 𝙴𝚞 𝚜𝚘𝚞 𝚊 **𝙶𝚒𝚘𝚟𝚊𝚗𝚗𝚊** ₊ ⊹
+𝙷𝚎𝚕𝚕𝚘𝚘.ᐟ.ᐟ 𝙴𝚞 𝚜𝚘𝚞 o *Icaro** ₊ ⊹
  
 - 𝙴𝚜𝚝𝚞𝚍𝚊𝚗𝚝𝚎 𝚍𝚎 𝙳𝚎𝚜𝚎𝚗𝚟𝚘𝚕𝚟𝚒𝚖𝚎𝚗𝚝𝚘 𝚍𝚎 𝚂𝚒𝚜𝚝𝚎𝚖𝚊𝚜 
-- 𝙴𝚡𝚙𝚕𝚘𝚛𝚊𝚗𝚍𝚘 𝚘 𝚖𝚞𝚗𝚍𝚘 𝚍𝚊 𝚝𝚎𝚌𝚗𝚘𝚕𝚘𝚐𝚒𝚊
-- 𝙵𝚘𝚌𝚊𝚍o 𝚎𝚖  **Java**
+- 𝙵𝚘𝚌𝚊𝚍o atualmente 𝚎𝚖  **Java**
  
  
 ## 𝑴𝒊𝒏𝒉𝒂 𝒋𝒐𝒓𝒏𝒂𝒅𝒂
@@ -28,7 +27,7 @@ width="400px"
 ## 𝑪𝒐𝒏𝒆𝒄𝒕𝒆-𝒔𝒆 𝒄𝒐𝒎𝒊𝒈𝒐
  
 [![Email](https://img.shields.io/badge/Email-E6D3A3?style=for-the-badge&logo=gmail&logoColor=3E2C23)](mailto:gd.techprofile@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-D4AF37?style=for-the-badge&logo=linkedin&logoColor=3E2C23)](https://www.linkedin.com/in/giovanna-duccini-martins)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-D4AF37?style=for-the-badge&logo=linkedin&logoColor=3E2C23)](https://www.linkedin.com/in/%C3%ADcaro-luiz/)
  
  
 ## 𝑻𝒆𝒄𝒏𝒐𝒍𝒐𝒈𝒊𝒂𝒔
