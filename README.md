@@ -60,7 +60,7 @@ Me chamo **Icaro** ₊ ⊹
  
 <div align="center">
  
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=D4AF37¢er=true&vC…
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=D4AF37¢er=true&vC…"/>
  
 <br>
  
