@@ -33,7 +33,6 @@
 <img src="https://streak-stats.demolab.com?user=gdTech1&hide_border=true&background=00000000&stroke=B2B2B2&ring=150E56&fire=0A1931&currStreakNum=FFFFFF&sideNums=B2B2B2&currStreakLabel=150E56&sideLabels=B2B2B2&dates=FFFFFF" />
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 <br><br>
 
