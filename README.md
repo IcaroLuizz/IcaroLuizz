@@ -38,6 +38,6 @@
 
 <br><br>
 
-<img src="https://github.com/gdTech1/gdTech1/blob/main/output-onlinegiftools-com.gif?raw=true" width="300px"/>
+<img src="https://media.tenor.com/TlyRveJkgo4AAAAj/cloud-cloud-strife.gif" width="300px"/>
 
 </div>
