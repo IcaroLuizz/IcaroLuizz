@@ -38,10 +38,8 @@ Me chamo *Icaro** ₊
 𝙵𝚎𝚛𝚛𝚊𝚖𝚎𝚗𝚝𝚊𝚜 𝚚𝚞𝚎 𝚖𝚎 𝚊𝚌𝚘𝚖𝚙𝚊𝚗𝚑𝚊𝚖 𝚗𝚊 𝚓𝚘𝚛𝚗𝚊𝚍𝚊:
  
 ![Python](https://img.shields.io/badge/Python-E6D3A3?style=for-the-badge&logo=python&logoColor=3E2C23)
-# ![HTML](https://img.shields.io/badge/HTML-CD7F32?style=for-the-badge&logo=html5&logoColor=FFFFFF)
 ![Java](https://img.shields.io/badge/Java-FAF0E6?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-3E2C23?style=for-the-badge)
-# ![Git](https://img.shields.io/badge/Git-D4AF37?style=for-the-badge&logo=git&logoColor=3E2C23)
  
  
 ## 𝑺𝒕𝒓𝒆𝒂𝒌
