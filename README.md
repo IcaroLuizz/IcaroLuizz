@@ -26,7 +26,7 @@ Me chamo **Icaro** ₊ ⊹
  
 ## 𝑪𝒐𝒏𝒆𝒄𝒕𝒆-𝒔𝒆 𝒄𝒐𝒎𝒊𝒈𝒐
  
-[![Email](https://img.shields.io/badge/Email-E6D3A3?style=for-the-badge&logo=gmail&logoColor=836FFF)](mailto:icarocaualuiz@gmail.com)
+[![Email](https://img.shields.io/badge/Email-E6D3A3?style=for-the-badge&logo=gmail&logoColor=3E2C23)](mailto:icarocaualuiz@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-D4AF37?style=for-the-badge&logo=linkedin&logoColor=3E2C23)](https://www.linkedin.com/in/%C3%ADcaro-luiz/)
  
  
@@ -34,10 +34,10 @@ Me chamo **Icaro** ₊ ⊹
 𝙵𝚎𝚛𝚛𝚊𝚖𝚎𝚗𝚝𝚊𝚜 𝚚𝚞𝚎 𝚖𝚎 𝚊𝚌𝚘𝚖𝚙𝚊𝚗𝚑𝚊𝚖 𝚗𝚊 𝚓𝚘𝚛𝚗𝚊𝚍𝚊:
  
 ![Python](https://img.shields.io/badge/Python-E6D3A3?style=for-the-badge&logo=python&logoColor=3E2C23)
-![HTML](https://img.shields.io/badge/HTML-CD7F32?style=for-the-badge&logo=html5&logoColor=FFFFFF)
-![CSS](https://img.shields.io/badge/CSS-8B5E3C?style=for-the-badge&logo=css3&logoColor=FFFFFF)
-![Flask](https://img.shields.io/badge/Flask-5C4033?style=for-the-badge&logo=flask&logoColor=FFFFFF)
-![Git](https://img.shields.io/badge/Git-D4AF37?style=for-the-badge&logo=git&logoColor=3E2C23)
+# ![HTML](https://img.shields.io/badge/HTML-CD7F32?style=for-the-badge&logo=html5&logoColor=FFFFFF)
+![Java](https://img.shields.io/badge/Java-FAF0E6?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-3E2C23?style=for-the-badge)
+# ![Git](https://img.shields.io/badge/Git-D4AF37?style=for-the-badge&logo=git&logoColor=3E2C23)
  
  
 ## 𝑺𝒕𝒓𝒆𝒂𝒌
@@ -59,8 +59,6 @@ Me chamo **Icaro** ₊ ⊹
 <br>
  
 <div align="center">
- 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=D4AF37¢er=true&vC…"/>
  
 <br>
  
