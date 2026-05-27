@@ -18,7 +18,7 @@
 ![Goal](https://img.shields.io/badge/Goal-Tatuador-B2B2B2?style=for-the-badge&logoColor=000000)
 
 ## 𝑪𝒐𝒏𝒆𝒄𝒕𝒆-𝒔𝒆 𝒄𝒐𝒎𝒊𝒈𝒐
-[![Email](https://img.shields.io/badge/Email-0A1931?style=for-the-badge&logo=gmail&logoColor=white)](mailto:icarocaualuiz@gmail.com)
+## [![Email](https://img.shields.io/badge/Email-0A1931?style=for-the-badge&logo=gmail&logoColor=white)](mailto:icarocaualuiz@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-181D31?style=for-the-badge&logo=linkedin&logoColor=B2B2B2)](https://www.linkedin.com/in/%C3%ADcaro-luiz/)
 
 ## 𝑻𝒆𝒄𝒏𝒐𝒍𝒐𝒈𝒊𝒂s
