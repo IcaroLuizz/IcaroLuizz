@@ -12,7 +12,6 @@
 ---
 
 ## 𝑴𝒊𝒏𝒉𝒂 𝒋𝒐𝒓𝒏𝒂𝒅𝒂
-![Learning Java](https://img.shields.io/badge/Learning-Java-0A1931?style=for-the-badge&logo=openjdk&logoColor=FFD700)
 ![Learning Tattoo](https://img.shields.io/badge/Learning-Tatuagem-150E56?style=for-the-badge&logo=inkscape&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Student-181D31?style=for-the-badge&logoColor=FFFFFF)
 ![Goal](https://img.shields.io/badge/Goal-Tatuador-B2B2B2?style=for-the-badge&logoColor=000000)
